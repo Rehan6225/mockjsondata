@@ -16,33 +16,10 @@
     "code": 9,
     "value": "Uttar Pradesh"
   },
-  {
-    "code": 3,
-    "value": "Punjab"
-  },
+  
   {
     "code": 1,
     "value": "Jammu and Kashmir"
-  },
-  {
-    "code": 10,
-    "value": "Bihar"
-  },
-  {
-    "code": 11,
-    "value": "Sikkim"
-  },
-  {
-    "code": 13,
-    "value": "Nagaland"
-  },
-  {
-    "code": 8,
-    "value": "Rajasthan"
-  },
-  {
-    "code": 2,
-    "value": "Himachal Pradesh"
   }
 ],
   "profile": {
