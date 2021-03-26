@@ -1,27 +1,26 @@
 {
-  "posts":[
-  {
-    "code": 36,
-    "value": "Ladakh"
-  },
-  {
+  "posts": [
+    {
     "code": 5,
-    "value": "Uttarakhand"
+    "value": "English"
+  },
+    {
+    "code": 7,
+    "value": "Hindi"
+  },
+    {
+    "code": 13,
+    "value": "Kashmiri"
   },
   {
-    "code": 12,
-    "value": "Arunachal Pradesh"
+    "code": 6,
+    "value": "Urdu"
   },
   {
-    "code": 9,
-    "value": "Uttar Pradesh"
-  },
-  
-  {
-    "code": 1,
-    "value": "Jammu and Kashmir"
+    "code": 25,
+    "value": "Nepali"
   }
-],
+  ],
   "profile": {
     "name": "typicode"
   }
