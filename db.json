@@ -1,24 +1,24 @@
 {
   "posts": [
     {
+    "code": 36,
+    "state": "Ladakh"
+  },
+  {
     "code": 5,
-    "value": "English"
-  },
-    {
-    "code": 7,
-    "value": "Hindi"
-  },
-    {
-    "code": 13,
-    "value": "Kashmiri"
+    "state": "Uttarakhand"
   },
   {
-    "code": 6,
-    "value": "Urdu"
+    "code": 12,
+    "state": "Arunachal Pradesh"
   },
   {
-    "code": 25,
-    "value": "Nepali"
+    "code": 9,
+    "state": "Uttar Pradesh"
+  },
+  {
+    "code": 3,
+    "state": "Punjab"
   }
   ],
   "profile": {
